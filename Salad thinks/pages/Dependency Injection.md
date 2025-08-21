@@ -1,0 +1,1 @@
+- Dependency Injection is a fundamental concept of [[Spring Framework]]. Also called loose coupling.

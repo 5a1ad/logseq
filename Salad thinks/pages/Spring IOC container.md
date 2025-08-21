@@ -1,0 +1,3 @@
+- Spring Inversion Of Control container is a core container of [[Spring Framework]].
+- It creates and manages objects ([[Beans]]), [[Dependency Injection]], and manage their life cycle.
+-
