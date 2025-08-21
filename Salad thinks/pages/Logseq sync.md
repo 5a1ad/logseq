@@ -1,0 +1,1 @@
+- Using turmax and git we can pull and push the logseq folder.
