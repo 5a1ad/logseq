@@ -1,0 +1,2 @@
+- The bean factory is the most basic version of the [[Spring IOC container]]
+- it provides basic support for dependency injection and bean life cycle management.
